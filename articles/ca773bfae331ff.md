@@ -36,7 +36,7 @@ published: false
 PdMが全体最適の視点で、プロダクトの価値をTotalで上げるもの、対応が必要な修正など取捨選択するように変更しました。
 
 ### 会計指標で考える
-どういった効果を期待したか会計指標で考えてみます。以下のROXX松本さんのスライドが秀逸なので、引用します。
+どういった効果を期待したか会計指標で考えてみます。以下のROXX松本さんのスライドが秀逸なので、引用させていただきます。
 
 > [プロダクトを中心に考える#とは / focus on the product - Speaker Deck](https://speakerdeck.com/kotamat/focus-on-the-product)
 > ![](/images/ca773bfae331ff/accounting.png)
