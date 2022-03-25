@@ -1,6 +1,6 @@
 ---
 title: "スタートアップのCTOとして何を考え何を変えたか"
-emoji: "🏃🏻"
+emoji: "🏋🏻"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["ポエム","スクラム","プロジェクトマネジメント","マネジメント"]
 published: false
