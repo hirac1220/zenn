@@ -77,7 +77,7 @@ PdMが全体最適の視点で、プロダクトの価値をTotalで上げるも
 
 ![](/images/ca773bfae331ff/old-archi.png)
 
-少人数で開発していた時は問題なかったのですが、開発人数増・開発規模増につれてツラミがましていました。
+少人数で開発していた時は問題なかったのですが、開発人員増・開発規模増につれてツラミがましていました。
 
 ### アーキテクチャーの刷新
 先日、文書のオンライン受け取りと電子保管などの新サービス ー クラウドキャビネットAI [sweeep Box](https://lp.box.sweeep.ai/)を立ち上げました。
@@ -171,3 +171,5 @@ https://speakerdeck.com/kotamat/focus-on-the-product
 > ![](/images/ca773bfae331ff/asset.jpg)
 
 https://note.com/singtacks/n/nb7a63ad40c17
+
+ここまで読んでいただきありがとうございました！
