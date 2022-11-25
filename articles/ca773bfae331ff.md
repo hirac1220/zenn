@@ -154,9 +154,6 @@ A機能開発スプリント　
 弊社ではフロントエンド・バックエンド・CoreAI機能開発のエンジニアを積極的に採用しています。ご興味のある方は下記リンクよりご応募お待ちしております！
 https://www.wantedly.com/companies/sweeep/projects
 
-または、まずはカジュアルにお話してみたい、という方は下記リンクよりお申し込みください！
-https://meety.net/matches/rrjHPEVHXDiW
-
 ### 参考サイト
 
 文中で引用させていただいたROXX松本さんのスライドです。
