@@ -26,9 +26,13 @@ AI Empowersの平下です。BtoBカスタマーサクセスSaaSを例に要件�
 - Mermaidを使った業務フローとデータ構造の可視化  
 - 実装につながるAPI設計の考え方  
 
+https://note.com/geenmart/n/n5f654d2ee2e4
+
 ***
 
 ## 1. ユビキタス言語の定義
+
+https://qiita.com/moromi25/items/d993700b732a7baa1c57
 
 ### プロンプト例  
 ```
@@ -53,8 +57,6 @@ AI Empowersの平下です。BtoBカスタマーサクセスSaaSを例に要件�
 - **ウォーンシグナル**: 解約リスクを示す指標（例：ログイン頻度30%以上低下、主要機能7日以上未使用）
 - **オンボーディングプラン**: 新規顧客の成功に向けた3ヶ月間の段階的支援計画
 - **ヘルススコア**: 顧客状況を数値化した指標（利用状況・満足度・成果達成度を総合評価）
-
-https://qiita.com/moromi25/items/d993700b732a7baa1c57
 
 ***
 
@@ -358,6 +360,8 @@ erDiagram
 
 ## 7. API設計
 
+https://qiita.com/mitsuya/items/e33d5ac202b41447cfec
+
 ### プロンプト例  
 ```
 上記のデータ構造を元に、RESTful APIのエンドポイント設計を提示してください。
@@ -458,8 +462,6 @@ GET /api/v1/customers?status=active&industry=IT&page=1&limit=20&sort=health_scor
 - `INSUFFICIENT_PERMISSIONS`: 権限不足（403）
 - `VALIDATION_ERROR`: 入力値エラー（400）
 - `RATE_LIMIT_EXCEEDED`: レート制限超過（429）
-
-https://qiita.com/mitsuya/items/e33d5ac202b41447cfec
 
 ***
 
