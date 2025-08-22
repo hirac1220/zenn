@@ -54,6 +54,8 @@ AI Empowersの平下です。BtoBカスタマーサクセスSaaSを例に要件�
 - **オンボーディングプラン**: 新規顧客の成功に向けた3ヶ月間の段階的支援計画
 - **ヘルススコア**: 顧客状況を数値化した指標（利用状況・満足度・成果達成度を総合評価）
 
+https://qiita.com/moromi25/items/d993700b732a7baa1c57
+
 ***
 
 ## 2. ユースケースの整理
@@ -457,6 +459,8 @@ GET /api/v1/customers?status=active&industry=IT&page=1&limit=20&sort=health_scor
 - `VALIDATION_ERROR`: 入力値エラー（400）
 - `RATE_LIMIT_EXCEEDED`: レート制限超過（429）
 
+https://qiita.com/mitsuya/items/e33d5ac202b41447cfec
+
 ***
 
 ## おわりに
@@ -543,7 +547,7 @@ ChatGPTとMermaidを組み合わせることで、かなり効率的に要件整
 ## 参考リンク
 
 - [Domain-Driven Design Reference（Eric Evans）](https://www.domainlanguage.com/ddd/reference/)  
-- [ユビキタス言語の実践（Qiita）](https://qiita.com/opengl-8080/items/6af3f9cf6bdb76a18e79)  
+- [「ユビキタス言語」とは？ - ドメイン駆動設計の用語の理解を試みる（Qiita）](https://qiita.com/moromi25/items/d993700b732a7baa1c57)  
 - [Mermaid公式ドキュメント](https://mermaid.js.org/)  
-- [RESTful API設計ガイド（Microsoft）](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)  
-- [カスタマーサクセスの基本（Gainsight）](https://www.gainsight.com/customer-success/)
+- [Web API: The Good Partsを読んだまとめ（Qiita）](https://qiita.com/mitsuya/items/e33d5ac202b41447cfec)  
+- [【保存版】カスタマーサクセス業務の全体像を紐解く（note）](https://note.com/geenmart/n/n5f654d2ee2e4)
